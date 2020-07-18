@@ -9,3 +9,4 @@ node /gd-utils/server.js &
 /gd-utils/sa/shellinaboxd --no-beep -t --user root -s "/:LOGIN"  
 #filebrowser默认不启动
 #filebrowser   &
+
